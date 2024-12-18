@@ -1,0 +1,23 @@
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library managment system (LBM).csproj.AssemblyReference.cache
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library_managment_system__LBM_.WelcomeForm.resources
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library_managment_system__LBM_.LoginForm.resources
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library_managment_system__LBM_.RegisterForm.resources
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library_managment_system__LBM_.BookSelectionForm.resources
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library_managment_system__LBM_.Properties.Resources.resources
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library managment system (LBM).csproj.GenerateResource.cache
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library managment system (LBM).csproj.CoreCompileInputs.cache
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\library managment system (LBM).exe.config
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\library managment system (LBM).exe
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\library managment system (LBM).pdb
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library managment system (LBM).exe
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library managment system (LBM).pdb
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\EntityFramework.dll
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\System.Data.SQLite.dll
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\EntityFramework.xml
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\bin\Debug\System.Data.SQLite.xml
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\library .928C15CF.Up2Date
+C:\Users\majoo\source\repos\library managment system (LBM)\library managment system (LBM)\obj\Debug\FPForm.resources
